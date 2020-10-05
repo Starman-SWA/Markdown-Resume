@@ -1,14 +1,14 @@
  <center>
-     <h1>XXX</h1>
+     <h1>陈铮</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             180XXXXXXXX
+             13546806058
          </span>
          ·
          <span>
              <img src="assets/envelope-solid.svg" width="18px">
-             zhengyc101@163.com
+             zhengchen@hust.edu.cn
          </span>
          ·
          <span>
